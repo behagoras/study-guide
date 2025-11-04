@@ -1,0 +1,7 @@
+[
+  "node_modules",
+  "output.md",
+  "*.png",
+  "ignore.json",
+  ".DS_Store"
+]
