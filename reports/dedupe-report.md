@@ -1,0 +1,223 @@
+# Dedupe Report
+
+- Total files analyzed: 34
+- Exact duplicate clusters: 0
+- Near-duplicate pairs: 0
+- Near-duplicate clusters: 0
+- Overlapping sections found: 70
+
+## Overlapping Sections
+
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal] (sim: 1.000)
+  - Topics: lenguaje corporal
+  - Snippet: Enojo: Cuenta hasta 10 y tranquilízate, elige permanecer calmado
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Lenguaje corporal] (sim: 1.000)
+  - Topics: lenguaje corporal
+  - Snippet: **Gestos emblemáticos**: Gestos conocidos universalmente: Ejemplo -> :+1:
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Lenguaje corporal] (sim: 1.000)
+  - Topics: lenguaje corporal
+  - Snippet: **Gestos ilustrativos**: Gestos para recalcar lo que se dice (intencionalmente)
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Lenguaje corporal] (sim: 1.000)
+  - Topics: lenguaje corporal
+  - Snippet: **Gestos reguladores**: Por ejemplo dar la mano para terminar una reunión
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Lenguaje corporal] (sim: 1.000)
+  - Topics: lenguaje corporal
+  - Snippet: **Gestos afectivos**: Muestran el estado emotivo del momento de la persona
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Lenguaje corporal] (sim: 1.000)
+  - Topics: lenguaje corporal
+  - Snippet: **Gestos adaptadores**: Gestos para manejar emociones que no queremos expresar
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal / Vestimenta] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Vestimenta] (sim: 1.000)
+  - Topics: lenguaje corporal, vestimenta
+  - Snippet: - Cómo te gustaría verte y que te vean - Cómo conviene que te vean
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal / Vestimenta] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Vestimenta] (sim: 1.000)
+  - Topics: lenguaje corporal, vestimenta
+  - Snippet: Verse siempre arreglado, ropa limpia, sin manchas y planchada
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Debilidades y fortalezas] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Soy muy curioso y eso me lleva a enfocarme en cosas, quizá no tan importantes
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Debilidades y fortalezas] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Para anteponerme a este problema, aprendí muchas metodologías, sobre todo ágiles.
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Debilidades y fortalezas] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Leí los libros de Erik Ries sobre lean startup, hice talleres de scrum y suelo protegerme mucho creando metodologías de trabajo, para poderlas seguir y anteponerme a una excelente idea que no da tiemp
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Debilidades y fortalezas] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Lo resuelvo mediante el criterio, suelo preguntar a mis compañeros sobre si es buena opción hacer x cosas o no, por ejemplo:
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Debilidades y fortalezas] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Para un proyecto se me ocurrió hacer un landing
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Personal y profesional, personas con gustos integrales
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Personal y profesional, personas con gustos integrales
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Personal y profesional, personas con gustos integrales
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Cuáles son tus fortalezas y debilidades?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Cuáles son tus fortalezas y debilidades?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Cuáles son tus fortalezas y debilidades?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Ser honesto: me pierdo un poco en mi cabeza
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Ser honesto: me pierdo un poco en mi cabeza
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Ser honesto: me pierdo un poco en mi cabeza
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Por qué te interesa la empresa? - Por qué te deberíamos de contratar? - Cuál es un logro del que te enorgulleces? - Nunca pares de - El otro día día una clase - Cuéntame de una situación laboral com
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - ¿Qué preguntas tienes para nosotros? - Preparar las preguntas de antemano? - Qué es lo que más te emociona? - Cómo se vive acá? - Evitar cliches - Mi debilidad es ser demasiado perfeccionista - Resp
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Me pasa mucho que juego con el lápiz o con el cabello y eso, cómo le hago para saciar esas ansias
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Nos pueden compartir una guía de vestimentas aceptables?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Yo tomo apuntes de las entrevistas de lo que va diciendo el entrevistador para tener preguntas
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Personal y profesional, personas con gustos integrales
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Personal y profesional, personas con gustos integrales
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Cuáles son tus fortalezas y debilidades?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Cuáles son tus fortalezas y debilidades?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Ser honesto: me pierdo un poco en mi cabeza
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Ser honesto: me pierdo un poco en mi cabeza
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Encuentra el trabajo de tus sueños / Entrevistas / Presencial] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Encuentra el trabajo de tus sueños / Entrevistas / Presencial] (sim: 1.000)
+  - Topics: 
+  - Snippet: - Se puntual - Código de vestimenta - Investiga la empresa - Se natural
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Encuentra el trabajo de tus sueños / Entrevistas / Presencial] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [Encuentra el trabajo de tus sueños / Entrevistas / Presencial] (sim: 1.000)
+  - Topics: 
+  - Snippet: - Se puntual - Código de vestimenta - Investiga la empresa - Se natural
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Encuentra el trabajo de tus sueños / Entrevistas / Tipos] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Encuentra el trabajo de tus sueños / Entrevistas / Tipos] (sim: 1.000)
+  - Topics: 
+  - Snippet: - Entrevistas virtuales - Inforames - A distancia
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Encuentra el trabajo de tus sueños / Entrevistas / Tipos] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [Encuentra el trabajo de tus sueños / Entrevistas / Tipos] (sim: 1.000)
+  - Topics: 
+  - Snippet: - Entrevistas virtuales - Inforames - A distancia
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas] (sim: 1.000)
+  - Topics: 
+  - Snippet: Aplica a la vacante para la que tengas el perfil correcto, donde tengas más oportunidades
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas] (sim: 1.000)
+  - Topics: 
+  - Snippet: Aplica a la vacante para la que tengas el perfil correcto, donde tengas más oportunidades
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: En general es que con componentes el código es más escalable, pero algunas de los beneficios específicos serían:
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: - ¿Qué característica de JavaScript permite que sea un lenguaje no bloqueante?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: Es un paradigma de programación orientado a flujos de datos (muy utilizado para lidiar con datos asíncronos) especializado en la propagación de datos mediante la generación de observables.
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: - ¿̣Qué diferencias hay entre el Session Storage, Cookies y Local Storage?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: La Session Storage guarda data mientras la pestaña está abierta mientras que el local storage no expira y se mantiene en el browser (persiste) hasta que se borre por js o liberando el caché, las cooki
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: Los HOC son una técnica en la que una función regresa un componente, teniendo acceso a las variables de la función (suelen ser accedidos mediante el estado o las props), es muy utilizada esta técnica 
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: - ¿Qué diferencias hay entre el DOM y el Virtual DOM?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: El DOM es lo que el árbol de elementos reales en el browser mientras que el DOM virtual es una copia en js del DOM que existe para facilitar las modificaciones del DOM al tener una referencia del arbo
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: Si se desea modificar algo en el DOM, primero se modifica en el virtual dom, se comparan los cambios y en el DOM se modifican exactamente los nodos que cambiaron.
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: - ¿Qué diferencia hay entre Server Side Rendering y Client Side Rendering?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 1.000)
+  - Topics: 
+  - Snippet: El server SSR hace un prerenderizado del sitio web desde el servidor, mientras que el CSR renderiza en tiempo de ejecución.
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Backend] (sim: 1.000)
+  - Topics: 
+  - Snippet: ​ PUT para actualizar todo el recurso y PATCH para hacer una actualización parcial
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Backend] (sim: 1.000)
+  - Topics: 
+  - Snippet: ​ PUT para hacer una actualización parcial y PATCH para actualizar todo el recurso
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Backend] (sim: 1.000)
+  - Topics: 
+  - Snippet: ​ Ofuscar los secrets y keys en el código
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Personal y profesional, personas con gustos integrales
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: - Cuáles son tus fortalezas y debilidades?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 1.000)
+  - Topics: tips
+  - Snippet: Ser honesto: me pierdo un poco en mi cabeza
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Encuentra el trabajo de tus sueños / Entrevistas / Presencial] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [Encuentra el trabajo de tus sueños / Entrevistas / Presencial] (sim: 1.000)
+  - Topics: 
+  - Snippet: - Se puntual - Código de vestimenta - Investiga la empresa - Se natural
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Encuentra el trabajo de tus sueños / Entrevistas / Tipos] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [Encuentra el trabajo de tus sueños / Entrevistas / Tipos] (sim: 1.000)
+  - Topics: 
+  - Snippet: - Entrevistas virtuales - Inforames - A distancia
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas] (sim: 1.000)
+  - Topics: 
+  - Snippet: Aplica a la vacante para la que tengas el perfil correcto, donde tengas más oportunidades
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 0.978)
+  - Topics: tips
+  - Snippet: - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 0.978)
+  - Topics: tips
+  - Snippet: - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal / Lenguaje corporal] (sim: 0.978)
+  - Topics: lenguaje corporal
+  - Snippet: - Tips: - Mirar al entrevistador en todo momento, de manera no amenazante - No taparse la boca, ojos ni oídos (no llevarse las manos a la cara) - Piernas medio abiertas - Sonrisa - No encoger los homb
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Backend] (sim: 0.970)
+  - Topics: 
+  - Snippet: ​ PUT para actualizar todo el recurso y PATCH para hacer una actualización parcial
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Backend] (sim: 0.970)
+  - Topics: 
+  - Snippet: ​ PUT para hacer una actualización parcial y PATCH para actualizar todo el recurso
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Tips] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] (sim: 0.969)
+  - Topics: tips
+  - Snippet: - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md [Tips] (sim: 0.969)
+  - Topics: tips
+  - Snippet: - Big no's - No usar la palabra herir o el concepto - Tips - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas pregun
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md [Lenguaje corporal] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md [Lenguaje corporal] (sim: 0.949)
+  - Topics: lenguaje corporal
+  - Snippet: - Emociones - Alegría ¿Qué he logrado? - Enojo ¿Qué está en miedo? - Tristeza ¿Qué he perdido? - Miedo ¿Qué es lo que no puedo o me amenaza?
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md [Platzi] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md [short Pitch / Tips] (sim: 0.948)
+  - Topics: tips
+  - Snippet: - Big no's - No usar la palabra herir o el concepto - Tips - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas pregun
+- /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md [Entrevista fullStack] ↔ /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md [Frontend] (sim: 0.943)
+  - Topics: 
+  - Snippet: 1. Se genera código más legible que suele ser semántico, dividiendo el código en componentes que tienen funciones muy específicas, lo que hace que el código sea más mantenible (modularización del códi
+
+## Recommendations
+

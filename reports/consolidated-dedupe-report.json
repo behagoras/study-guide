@@ -1,0 +1,1285 @@
+{
+  "stats": {
+    "total_files": 4,
+    "exact_duplicate_clusters": 0,
+    "near_duplicate_pairs": 0,
+    "near_duplicate_clusters": 0,
+    "overlapping_sections": 105
+  },
+  "exact_duplicates": [],
+  "near_duplicate_pairs": [],
+  "near_duplicate_clusters": [],
+  "overlapping_sections": [
+    {
+      "similarity": 0.8797,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Tarea",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Tarea",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9633,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9633,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.8797,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Tarea",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Tarea",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9534,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "- Tips: - Mirar al entrevistador en todo momento, de manera no amenazante - No taparse la boca, ojos ni oídos (no llevarse las manos a la cara) - Piernas medio abiertas - Sonrisa - No encoger los homb",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.8797,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Tarea",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Preguntas de Entrevista / Tarea",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9633,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9633,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Lenguaje corporal",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Vestimenta",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "- Cómo te gustaría verte y que te vean - Cómo conviene que te vean",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Vestimenta",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Vestimenta",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Vestimenta",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "Verse siempre arreglado, ropa limpia, sin manchas y planchada",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Vestimenta",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Lenguaje Corporal.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Lenguaje Corporal / Vestimenta",
+      "location_b": "Consolidado - Vestimenta / Vestimenta",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la ent",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.8797,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9189,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9189,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9189,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9189,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9189,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e.md · Preguntas Para Entrevist",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e.md · Preguntas Para Entrevist",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e.md · Preguntas Para Entrevist",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e.md · Preguntas Para Entrevist",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e.md · Preguntas Para Entrevist",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "[Interview tips](Preguntas%20Para%20Entrevistas%205b4e52d6c69142ffb24337f2f3d8427e/Interview%20tips%207c1e8298a1ca4503aa70f1b3fce55984.md)",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Preguntas Para Entrevistas",
+      "location_b": "Consolidado - Tips de Entrevista / Preguntas Para Entrevistas",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e.md · Preguntas Para Entrevist",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9048,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Lenguaje corporal",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas",
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9511,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md ",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 0.9524,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tarea",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tarea_",
+      "topics": [
+        "tips",
+        "preguntas",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "- ¿Qué preguntas tienes para nosotros? - Preparar las preguntas de antemano? - Qué es lo que más te emociona? - Cómo se vive acá? - Evitar cliches - Mi debilidad es ser demasiado perfeccionista - Resp",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "Yo tomo apuntes de las entrevistas de lo que va diciendo el entrevistador para tener preguntas",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Tips de Entrevista / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Preguntas de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Preguntas de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "preguntas",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Tips de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Tips de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Tips de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Tips de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "Nos pueden compartir una guía de vestimentas aceptables?",
+      "topics": [
+        "tips",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Tips de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Tips de Entrevista.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Consolidated/Consolidado - Vestimenta.md",
+      "location_a": "Consolidado - Tips de Entrevista / Tips",
+      "location_b": "Consolidado - Vestimenta / Tips",
+      "snippet": "_Fuente: /Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md · Tips_",
+      "topics": [
+        "tips",
+        "vestimenta"
+      ]
+    }
+  ],
+  "recommendations": {
+    "exact": [],
+    "near": []
+  }
+}

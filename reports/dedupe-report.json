@@ -1,0 +1,738 @@
+{
+  "stats": {
+    "total_files": 34,
+    "exact_duplicate_clusters": 0,
+    "near_duplicate_pairs": 0,
+    "near_duplicate_clusters": 0,
+    "overlapping_sections": 70
+  },
+  "exact_duplicates": [],
+  "near_duplicate_pairs": [],
+  "near_duplicate_clusters": [],
+  "overlapping_sections": [
+    {
+      "similarity": 0.9487,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal",
+      "snippet": "- Emociones - Alegría ¿Qué he logrado? - Enojo ¿Qué está en miedo? - Tristeza ¿Qué he perdido? - Miedo ¿Qué es lo que no puedo o me amenaza?",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal",
+      "snippet": "Enojo: Cuenta hasta 10 y tranquilízate, elige permanecer calmado",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal / Lenguaje corporal",
+      "snippet": "**Gestos emblemáticos**: Gestos conocidos universalmente: Ejemplo -> :+1:",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal / Lenguaje corporal",
+      "snippet": "**Gestos ilustrativos**: Gestos para recalcar lo que se dice (intencionalmente)",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal / Lenguaje corporal",
+      "snippet": "**Gestos reguladores**: Por ejemplo dar la mano para terminar una reunión",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal / Lenguaje corporal",
+      "snippet": "**Gestos afectivos**: Muestran el estado emotivo del momento de la persona",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal / Lenguaje corporal",
+      "snippet": "**Gestos adaptadores**: Gestos para manejar emociones que no queremos expresar",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 0.9776,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal",
+      "location_b": "Lenguaje corporal / Lenguaje corporal",
+      "snippet": "- Tips: - Mirar al entrevistador en todo momento, de manera no amenazante - No taparse la boca, ojos ni oídos (no llevarse las manos a la cara) - Piernas medio abiertas - Sonrisa - No encoger los homb",
+      "topics": [
+        "lenguaje corporal"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal / Vestimenta",
+      "location_b": "Lenguaje corporal / Vestimenta",
+      "snippet": "- Cómo te gustaría verte y que te vean - Cómo conviene que te vean",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132/3 Durante la entrevista d78cbf6ae92f46f6a763d05cd115dc87.md",
+      "location_a": "Lenguaje corporal / Vestimenta",
+      "location_b": "Lenguaje corporal / Vestimenta",
+      "snippet": "Verse siempre arreglado, ropa limpia, sin manchas y planchada",
+      "topics": [
+        "lenguaje corporal",
+        "vestimenta"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Debilidades y fortalezas",
+      "snippet": "- Soy muy curioso y eso me lleva a enfocarme en cosas, quizá no tan importantes",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Debilidades y fortalezas",
+      "snippet": "Para anteponerme a este problema, aprendí muchas metodologías, sobre todo ágiles.",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Debilidades y fortalezas",
+      "snippet": "Leí los libros de Erik Ries sobre lean startup, hice talleres de scrum y suelo protegerme mucho creando metodologías de trabajo, para poderlas seguir y anteponerme a una excelente idea que no da tiemp",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Debilidades y fortalezas",
+      "snippet": "Lo resuelvo mediante el criterio, suelo preguntar a mis compañeros sobre si es buena opción hacer x cosas o no, por ejemplo:",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Debilidades y fortalezas",
+      "snippet": "Para un proyecto se me ocurrió hacer un landing",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 0.9687,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "location_a": "Tips",
+      "location_b": "Platzi",
+      "snippet": "- No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "- No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 0.9777,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "- No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "location_a": "Tips",
+      "location_b": "Platzi",
+      "snippet": "Personal y profesional, personas con gustos integrales",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "Personal y profesional, personas con gustos integrales",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "Personal y profesional, personas con gustos integrales",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "location_a": "Tips",
+      "location_b": "Platzi",
+      "snippet": "- Cuáles son tus fortalezas y debilidades?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "- Cuáles son tus fortalezas y debilidades?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "- Cuáles son tus fortalezas y debilidades?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "location_a": "Tips",
+      "location_b": "Platzi",
+      "snippet": "Ser honesto: me pierdo un poco en mi cabeza",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "Ser honesto: me pierdo un poco en mi cabeza",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "Ser honesto: me pierdo un poco en mi cabeza",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "- Por qué te interesa la empresa? - Por qué te deberíamos de contratar? - Cuál es un logro del que te enorgulleces? - Nunca pares de - El otro día día una clase - Cuéntame de una situación laboral com",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "- ¿Qué preguntas tienes para nosotros? - Preparar las preguntas de antemano? - Qué es lo que más te emociona? - Cómo se vive acá? - Evitar cliches - Mi debilidad es ser demasiado perfeccionista - Resp",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "Me pasa mucho que juego con el lápiz o con el cabello y eso, cómo le hago para saciar esas ansias",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "Nos pueden compartir una guía de vestimentas aceptables?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Entrevistas f94c319587924e00a6da9fe29aab7b92/Netflix 0d92cfbe926048339b2c8e3ebd390418.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Tips",
+      "location_b": "Tips",
+      "snippet": "Yo tomo apuntes de las entrevistas de lo que va diciendo el entrevistador para tener preguntas",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 0.9687,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Platzi",
+      "location_b": "Tips",
+      "snippet": "- Big no's - No usar la palabra herir o el concepto - Tips - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas pregun",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 0.9477,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Platzi",
+      "location_b": "short Pitch / Tips",
+      "snippet": "- Big no's - No usar la palabra herir o el concepto - Tips - No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas pregun",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Platzi",
+      "location_b": "Tips",
+      "snippet": "Personal y profesional, personas con gustos integrales",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Platzi",
+      "location_b": "short Pitch / Tips",
+      "snippet": "Personal y profesional, personas con gustos integrales",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Platzi",
+      "location_b": "Tips",
+      "snippet": "- Cuáles son tus fortalezas y debilidades?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Platzi",
+      "location_b": "short Pitch / Tips",
+      "snippet": "- Cuáles son tus fortalezas y debilidades?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Platzi",
+      "location_b": "Tips",
+      "snippet": "Ser honesto: me pierdo un poco en mi cabeza",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Platzi",
+      "location_b": "short Pitch / Tips",
+      "snippet": "Ser honesto: me pierdo un poco en mi cabeza",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Entrevistas / Presencial",
+      "location_b": "Encuentra el trabajo de tus sueños / Entrevistas / Presencial",
+      "snippet": "- Se puntual - Código de vestimenta - Investiga la empresa - Se natural",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Entrevistas / Presencial",
+      "location_b": "Encuentra el trabajo de tus sueños / Entrevistas / Presencial",
+      "snippet": "- Se puntual - Código de vestimenta - Investiga la empresa - Se natural",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Entrevistas / Tipos",
+      "location_b": "Encuentra el trabajo de tus sueños / Entrevistas / Tipos",
+      "snippet": "- Entrevistas virtuales - Inforames - A distancia",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Entrevistas / Tipos",
+      "location_b": "Encuentra el trabajo de tus sueños / Entrevistas / Tipos",
+      "snippet": "- Entrevistas virtuales - Inforames - A distancia",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas",
+      "location_b": "Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas",
+      "snippet": "Aplica a la vacante para la que tengas el perfil correcto, donde tengas más oportunidades",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Platzi 0f53c1fd7cbb48df859e35a193e1f84f.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas",
+      "location_b": "Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas",
+      "snippet": "Aplica a la vacante para la que tengas el perfil correcto, donde tengas más oportunidades",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "En general es que con componentes el código es más escalable, pero algunas de los beneficios específicos serían:",
+      "topics": []
+    },
+    {
+      "similarity": 0.9433,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "1. Se genera código más legible que suele ser semántico, dividiendo el código en componentes que tienen funciones muy específicas, lo que hace que el código sea más mantenible (modularización del códi",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "- ¿Qué característica de JavaScript permite que sea un lenguaje no bloqueante?",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "Es un paradigma de programación orientado a flujos de datos (muy utilizado para lidiar con datos asíncronos) especializado en la propagación de datos mediante la generación de observables.",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "- ¿̣Qué diferencias hay entre el Session Storage, Cookies y Local Storage?",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "La Session Storage guarda data mientras la pestaña está abierta mientras que el local storage no expira y se mantiene en el browser (persiste) hasta que se borre por js o liberando el caché, las cooki",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "Los HOC son una técnica en la que una función regresa un componente, teniendo acceso a las variables de la función (suelen ser accedidos mediante el estado o las props), es muy utilizada esta técnica ",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "- ¿Qué diferencias hay entre el DOM y el Virtual DOM?",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "El DOM es lo que el árbol de elementos reales en el browser mientras que el DOM virtual es una copia en js del DOM que existe para facilitar las modificaciones del DOM al tener una referencia del arbo",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "Si se desea modificar algo en el DOM, primero se modifica en el virtual dom, se comparan los cambios y en el DOM se modifican exactamente los nodos que cambiaron.",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "- ¿Qué diferencia hay entre Server Side Rendering y Client Side Rendering?",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Frontend",
+      "snippet": "El server SSR hace un prerenderizado del sitio web desde el servidor, mientras que el CSR renderiza en tiempo de ejecución.",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Backend",
+      "snippet": "​ PUT para actualizar todo el recurso y PATCH para hacer una actualización parcial",
+      "topics": []
+    },
+    {
+      "similarity": 0.9697,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Backend",
+      "snippet": "​ PUT para actualizar todo el recurso y PATCH para hacer una actualización parcial",
+      "topics": []
+    },
+    {
+      "similarity": 0.9697,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Backend",
+      "snippet": "​ PUT para hacer una actualización parcial y PATCH para actualizar todo el recurso",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Backend",
+      "snippet": "​ PUT para hacer una actualización parcial y PATCH para actualizar todo el recurso",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Entrevista fullStack 348d038cce184155aa132b4573492c00.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preguntas Para Entrevistas 5b4e52d6c69142ffb24337f2f3d8427e/Preguntas técnicas de entrevista 2f650d611ad84b8c8a429f3146fb936f.md",
+      "location_a": "Entrevista fullStack",
+      "location_b": "Backend",
+      "snippet": "​ Ofuscar los secrets y keys en el código",
+      "topics": []
+    },
+    {
+      "similarity": 0.9777,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "- No ser demasiado modesto - No sonar arrogante - Sé extrovertido - Sientete cómodo - Small talk, sobre todo al principio - Haz buenas preguntas - Preguntas específicas de la empresa - Me enteré de x,",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "Personal y profesional, personas con gustos integrales",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "- Cuáles son tus fortalezas y debilidades?",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Tips",
+      "location_b": "short Pitch / Tips",
+      "snippet": "Ser honesto: me pierdo un poco en mi cabeza",
+      "topics": [
+        "tips"
+      ]
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Entrevistas / Presencial",
+      "location_b": "Encuentra el trabajo de tus sueños / Entrevistas / Presencial",
+      "snippet": "- Se puntual - Código de vestimenta - Investiga la empresa - Se natural",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Entrevistas / Tipos",
+      "location_b": "Encuentra el trabajo de tus sueños / Entrevistas / Tipos",
+      "snippet": "- Entrevistas virtuales - Inforames - A distancia",
+      "topics": []
+    },
+    {
+      "similarity": 1.0,
+      "file_a": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/Preparación para una entrevista exitosa 220f983a35014d7387203f556d8a4132.md",
+      "file_b": "/Users/behar/.cursor/worktrees/Private___Shared/cOk94/Job Interviews bb835cda4c474a6a8757788f7d0fe705/short Pitch cbc46fd2b3b643ddbe50276de9201e27.md",
+      "location_a": "Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas",
+      "location_b": "Encuentra el trabajo de tus sueños / Resaltar mis habilidades asíncronas",
+      "snippet": "Aplica a la vacante para la que tengas el perfil correcto, donde tengas más oportunidades",
+      "topics": []
+    }
+  ],
+  "recommendations": {
+    "exact": [],
+    "near": []
+  }
+}
